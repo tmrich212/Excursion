@@ -44,7 +44,7 @@ h1 {
     color: gray;
 }
 
-@media screen and (min-width: 475px){
+@media screen and (min-width: 375px) and (max-width: 667px){
     * {
         margin: 20px;
         /* padding: 5px; */
